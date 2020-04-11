@@ -1,5 +1,7 @@
 # How well do you know the Tyne and Wear Metro?
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a111b46-fa9e-4001-8023-41e55b380bfd/deploy-status)](https://app.netlify.com/sites/metro-quiz/deploys)
+
 ## Get started
 
 Install the dependencies...
