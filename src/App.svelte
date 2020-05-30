@@ -83,7 +83,7 @@
 
   let index = 0;
   let progress = 0;
-  let goal = 1;
+  let goal = 12;
   let results = range(goal).map(d => null);
   let status = 0;
   let lastStationName;
