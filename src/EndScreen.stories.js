@@ -6,10 +6,28 @@ export default {
   component: EndScreen,
 };
 
-export const Default = () => ({
+export const Poor = () => ({
   Component: EndScreen,
   props: {
     progress: 4,
+    goal: 12,
+  },
+  on: { message: action("clicked") },
+});
+
+export const Good = () => ({
+  Component: EndScreen,
+  props: {
+    progress: 8,
+    goal: 12,
+  },
+  on: { message: action("clicked") },
+});
+
+export const Perfect = () => ({
+  Component: EndScreen,
+  props: {
+    progress: 12,
     goal: 12,
   },
   on: { message: action("clicked") },
