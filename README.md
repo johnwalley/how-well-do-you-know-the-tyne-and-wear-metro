@@ -7,7 +7,7 @@
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd how-well-do-you-know-the-tyne-and-wear-metro
 npm install
 ```
 
