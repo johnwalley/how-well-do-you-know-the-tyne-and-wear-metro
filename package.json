@@ -14,7 +14,7 @@
     "@rollup/plugin-commonjs": "^11.1.0",
     "@rollup/plugin-node-resolve": "^7.0.0",
     "@storybook/addon-actions": "^5.3.18",
-    "@storybook/addon-links": "^5.3.18",
+    "@storybook/addon-links": "^5.3.19",
     "@storybook/addons": "^5.3.18",
     "@storybook/svelte": "^5.3.19",
     "babel-loader": "^8.1.0",
