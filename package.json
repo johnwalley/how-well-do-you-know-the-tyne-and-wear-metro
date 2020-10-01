@@ -16,7 +16,7 @@
     "@storybook/addon-actions": "^5.3.18",
     "@storybook/addon-links": "^6.0.21",
     "@storybook/addons": "^5.3.18",
-    "@storybook/svelte": "^5.3.19",
+    "@storybook/svelte": "^6.0.22",
     "babel-loader": "^8.1.0",
     "rollup": "^2.28.2",
     "rollup-plugin-livereload": "^2.0.0",
