@@ -18,7 +18,7 @@
     "@storybook/addons": "^5.3.21",
     "@storybook/svelte": "^5.3.21",
     "babel-loader": "^8.1.0",
-    "rollup": "^2.33.0",
+    "rollup": "^2.35.1",
     "rollup-plugin-livereload": "^2.0.0",
     "rollup-plugin-svelte": "^6.1.0",
     "rollup-plugin-terser": "^5.3.1",
