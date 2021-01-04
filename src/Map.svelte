@@ -58,7 +58,7 @@
       }).addTo(leafletMap);
 
       circle.on("click", function(ev) {
-        sayHello(station.name);
+        handleClick(station.name);
       });
 
       circle.on("mouseover", function(ev) {
@@ -87,7 +87,7 @@
     }).addTo(leafletMap);
   });
 
-  function sayHello(name) {
+  function handleClick(name) {
     dispatch("message", {
       text: name
     });
