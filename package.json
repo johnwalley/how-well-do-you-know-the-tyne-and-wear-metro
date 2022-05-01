@@ -16,7 +16,7 @@
     "@storybook/addon-actions": "^6.4.14",
     "@storybook/addon-links": "^6.4.9",
     "@storybook/addons": "^6.4.14",
-    "@storybook/svelte": "^6.4.14",
+    "@storybook/svelte": "^6.4.22",
     "babel-loader": "^8.2.2",
     "postcss": "^8.2.13",
     "rollup": "^2.62.0",
